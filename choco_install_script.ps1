@@ -1,0 +1,35 @@
+﻿choco install googlechrome
+choco install firefox
+choco install 7zip.install
+choco install vcredist140
+choco install netfx-4.6.2
+choco install vlc
+choco install itunes
+choco install battle.net
+choco install cpu-z.install
+choco install gpu-z
+choco install discord.install
+choco install hwinfo.install
+choco install epicgameslauncher
+choco install mpv.install
+choco install qbittorrent
+choco install steam
+choco install uplay
+choco install msiafterburner
+choco install 1password
+choco install brave
+choco install dotnet-7.0-desktopruntime
+choco install dotnet-desktopruntime
+choco install notepadplusplus
+choco install crystaldiskmark
+choco install crystaldiskinfo
+choco install ds4windows
+choco install samsung-magician
+choco install wiztree
+choco install openrgb
+choco install rockstar-launcher
+choco install parsec
+choco install vortex
+# install thrustmaster drivers https://support.thrustmaster.com/en/product/t300rs-en/
+# install ARMGDDN Browser
+# install ClickMonitorDDC 
